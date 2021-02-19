@@ -9,4 +9,4 @@ There are two main topics:
 
 * Unix enviroment
 
-<a href="https://ibb.co/ygwtXrZ"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhelpdeskgeek.com%2Flinux-tips%2Fhdg-explains-what-is-unix%2F&psig=AOvVaw2K_m1wSaWcsP6ltA-cDlNE&ust=1613801653972000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjYovSl9e4CFQAAAAAdAAAAABAO" alt="C" border="0" /></a>
+<a href="https://ibb.co/ygwtXrZ"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200424201441/UNIX-1.png" alt="Unix" border="0" /></a>
