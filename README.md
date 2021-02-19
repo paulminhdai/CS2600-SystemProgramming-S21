@@ -5,8 +5,8 @@
 There are two main topics:
 * Programming in C
 
-<a href="https://ibb.co/ygwtXrZ"><img src="http://programmerspoint.in/images/c-programming-course.png" alt="C" border="0" /></a>
+<a href="https://ibb.co/ygwtXrZ"><img src="http://programmerspoint.in/images/c-programming-course.png" alt="C" border="0" width="80"/></a>
 
 * Unix enviroment
 
-<a href="https://ibb.co/ygwtXrZ"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200424201441/UNIX-1.png" alt="Unix" border="0" /></a>
+<a href="https://ibb.co/ygwtXrZ"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200424201441/UNIX-1.png" alt="Unix" border="0" width="80"/></a>
