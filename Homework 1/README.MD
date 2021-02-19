@@ -15,5 +15,5 @@ new value.
 subtract this number from count.
 8. Go back to step 2, unless either the program or the user wins.
 
-*Extra credit part:*
+*Extra credit:*
 Rather than having just 1 pile, make your game with 3 piles of marbles (each pile has its own starting count from 10 to 100). When the player (and computer) take a turn, first ask which pile, then ask the number of marbles to take.
