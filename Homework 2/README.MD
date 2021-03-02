@@ -16,3 +16,5 @@ If the program was asked to sort by column 1 (the names), the output would be:
 * Julie,23,grape
 * Sam,15,banana
 * Scott,12,kiwi
+
+Your program should use at least one structure, and should have at least a couple of functions.
