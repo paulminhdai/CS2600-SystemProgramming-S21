@@ -1,7 +1,7 @@
 #!/bin/bash
 #---------------------------------------------------------------------
 # AUTHOR: Dai (Paul) Vuong
-# FILENAME: cal.sh
+# FILENAME: cal.bash
 # SPECIFICATION: This program displays calendar of a specific month. 
 # FOR: CS 2600- Homework #3
 # TIME SPENT: 2 hours
