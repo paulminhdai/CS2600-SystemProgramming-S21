@@ -9,6 +9,7 @@ and the second is the new name for that file.
 ● The script will move the file (rename the file), so
 $ move src.c dst.c
 will rename the file 'src.c' to be 'dst.c'.
+
 ● Yes, this script will probably use the mv command to actually do the move.
 
 ● However, if there is already a file named dst.c (in this case), then the script will try the name
